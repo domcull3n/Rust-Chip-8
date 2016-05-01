@@ -1,0 +1,7 @@
+[package]
+name = "main"
+version = "0.1.0"
+authors = ["Dominic Cullen <w0279091@nscc.ca>"]
+
+[dependencies]
+piston = "0.20.0"
